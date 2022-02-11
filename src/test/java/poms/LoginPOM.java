@@ -10,6 +10,8 @@ public class LoginPOM {
 
     WebDriver driver;
 
+    //comment to check polling
+
     public LoginPOM(WebDriver driver) {
         this.driver = driver;
         PageFactory.initElements(driver, this);
