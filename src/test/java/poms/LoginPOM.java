@@ -10,7 +10,7 @@ public class LoginPOM {
 
     WebDriver driver;
 
-    //comment to check polling
+    //comment to check pollin
 
     public LoginPOM(WebDriver driver) {
         this.driver = driver;
